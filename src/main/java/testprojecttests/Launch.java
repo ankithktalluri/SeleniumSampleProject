@@ -34,5 +34,10 @@ public class Launch {
 		landingpage.switchToWindow();
 		
 	}
-
+	@Test
+	public void sample()
+	{
+		System.out.println("Sample output");
+	}
+	
 }
